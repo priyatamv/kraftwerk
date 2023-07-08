@@ -16,7 +16,7 @@ Analyze various coupon acceptance criteria and provide the observations.
 
 * Juypyter note book.
 
-### Analyis
+### Analysis
 #### Coupon acceptance Bar and Coffe House
 
 * Bar coupon acceptance criteria
@@ -70,5 +70,4 @@ ex. Priyatam Veyyakula
 
 ## Acknowledgments
 
-Inspiration, code snippets, etc.
 * [in-vehicle coupon recommendation](https://archive.ics.uci.edu/dataset/603/in+vehicle+coupon+recommendation)
