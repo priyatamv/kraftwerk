@@ -76,9 +76,7 @@ https://github.com/priyatamv/kraftwerk/blob/main/assignment_5_1_starter/prompt.i
 
 ## Authors
 
-Contributors names and contact info
-
-ex. Priyatam Veyyakula
+Priyatam Veyyakula
 
 ## Version History
 
