@@ -56,6 +56,10 @@ Analyze various coupon acceptance criteria and provide the observations.
 
     * Drivers are less likely to visit coffee houses during rainy/snowy weather.
 
+## Link to notebook
+
+https://github.com/priyatamv/kraftwerk/blob/main/assignment_5_1_starter/prompt.ipynb
+
 ## Authors
 
 Contributors names and contact info
